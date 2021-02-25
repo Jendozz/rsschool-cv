@@ -29,8 +29,7 @@ I got into Front-End not so long ago and I started to learn JavaScript.
 - Git
 - C#
 
-### Code example:
-One of my first programm in JavaScript.
+For example here is one of my first programm in JavaScript. It solves factorial at the range of 0 - 12/
 ```
 function factorial(n)
 {
